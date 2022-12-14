@@ -2,5 +2,9 @@ Este archivo esta creado en la rama Develop (Local)
 Este es un commit en la misma rama Develop (Local)
 Las ramas locales ya estan sincronizadas con origin
 Ahora, este cambio lo hago en la rama Develop (Local) Y sincronizo dicha rama con origin
-Este cambio lo hago tras un pull request (con resultado correcto)
-Otros cambios más...
+        Resolución del conflicto:
+    From Develop:
+    Este cambio lo hago tras un pull request (con resultado correcto)
+    Otros cambios más...
+    From Main:
+    Estos cambios los estoy haciendo en la rama Main
