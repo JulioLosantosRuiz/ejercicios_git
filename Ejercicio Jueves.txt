@@ -1,4 +1,7 @@
 Tras crear la rama Feature, comienzo a incluir texto
 Sigo incluyendo texto... (otro commit)
+
+Este texto solo esta en la Feature
+
 Este texto esta solo en la Feature 2
 Este tambien esta solo en la Feature 2 (otro commit)
